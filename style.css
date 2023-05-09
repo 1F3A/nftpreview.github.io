@@ -54,6 +54,7 @@
     width: 100%;
     height: auto;
     border-radius: 10px;
+    cursor: pointer;
 }
 
 .card-image .view {
@@ -94,6 +95,7 @@
     color: var(--white);
     font-weight: 600;
     font-size: 18px;
+    cursor: pointer;
     transition: 0.4s;
 }
 
@@ -179,6 +181,7 @@
 .card-avatar span {
     color: var(--white);
     font-weight: 600;
+    cursor: pointer;
     transition: 0.4s;
 }
 
